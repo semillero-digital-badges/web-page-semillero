@@ -32,7 +32,7 @@ This approach ensures that users are actively involved throughout the developmen
 - **User Research:** Conducted through an initial survey to understand user needs.
 - **Co-Design:** Users contribute ideas to define essential features and sections.
 - **Iterative Design:** The site evolves based on continuous feedback and usability principles.
-- **Usability Testing (Post-Launch):** Future enhancements based on user experience.
+- **Usability Testing (Post-Launch):** Future enhancements based on user experience using tools like Maze or Hotjar.
 
 ## Documentation & Transparency
 - **GitHub Repository:** All progress, design decisions, and updates will be documented here.

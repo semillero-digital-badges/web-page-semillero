@@ -9,6 +9,7 @@ This project aims to develop an official website for the research group to centr
 - Encourage the participation of new members and collaborators.
 - Showcase achievements and projects.
 - Facilitate funding opportunities.
+- Improve internal management by centralizing information.
 
 ## Website Structure
 ### Main Sections
@@ -22,26 +23,32 @@ This project aims to develop an official website for the research group to centr
 
 ## Technologies & Tools
 - **Platform:** Wix.com (for scalability and ease of use).
-- **Languages:** HTML, CSS, JavaScript (for custom elements).
+- **Languages:** HTML, CSS, JavaScript (for custom elements if needed).
+- **Analytics & User Behavior:** Google Analytics (to track visitor engagement), Hotjar (to analyze user interactions if feasible).
 - **Design Tools:** UX/UI design software (to be determined based on needs).
-- **Version Control:** GitHub (for documentation and collaboration).
+- **Version Control & Documentation:** GitHub (for tracking progress, changelog, and design decisions).
 
 ## UX Methodology
 ### Primary Methodology: **User-Centered Design (UCD)**
 This approach ensures that users are actively involved throughout the development process.
 - **User Research:** Conducted through an initial survey to understand user needs.
 - **Co-Design:** Users contribute ideas to define essential features and sections.
+- **Prototyping:** Wireframes and layouts created in Figma to validate design choices before implementation.
 - **Iterative Design:** The site evolves based on continuous feedback and usability principles.
-- **Usability Testing (Post-Launch):** Future enhancements based on user experience using tools like Maze or Hotjar.
+- **Usability Testing (Pre-Launch & Post-Launch):** Testing with research group members to evaluate navigation and usability before final deployment using tools like Maze or Hotjar.
 
 ## Documentation & Transparency
 - **GitHub Repository:** All progress, design decisions, and updates will be documented here.
-- **Justification of Design Choices:** Decisions will be based on UX best practices and user feedback.
+- **Justification of Design Choices:** Captured in design_decisions.md based on UX best practices and user feedback.
+- **Research Findings:** Insights from the initial survey documented in `research_findings.md`.
+- **Content Structure:** Defined in `content_structure.md` for clear organization.
+- **Changelog:** Updates and improvements tracked in `changelog.md`.
 
 ## Future Enhancements
-- Blog integration for content updates.
+- Blog integration for content updates and member contributions.
 - Membership login for internal collaboration.
 - Database for research documentation.
+- Improved interactivity and dynamic features if needed.
 
 ### Contact & Contribution
 Contributions, suggestions, or feedback are welcome! Feel free to open an issue or submit a pull request.

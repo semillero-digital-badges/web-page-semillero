@@ -1,15 +1,16 @@
 # Repository Tree Structure
 
 ## Overview
-This document outlines the content structure for the research's repository, ensuring ease of navigation for visitors.
+This document outlines the content structure for the project's repository, ensuring ease of navigation for visitors.
 
 📂 web-page-semillero
 - 📄 README.md                  # General description of the project
 - 📄 CHANGELOG.md                # changes log
   - 📂 docs/                        # General documentation
-    - 📄 research_findings.md     # Survey results' summary
     - 📄 design_decisions.md      # Design decisions justification
-    - 📄 content_structure.md     # Tree structure of the designed website
+    - 📄 repository_tree_structure.md # outlines the content structure for the project's repository.
+    - 📄 research_findings.md     # Survey results' summary
+    - 📄 website_content_structure.md     # Tree structure of the designed website
   - 📂 user_research/               # Survey and other UI/UX researches data.
     - 📄 survey_questions.md      # List of survey questions
     - 📄 survey_analysis.md       # Detailed results analysis

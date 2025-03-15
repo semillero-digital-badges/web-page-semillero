@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 20-05-2025
+## [0.1.0] - 14-03-2025
 ### Added
 - Initial project setup using Wix.
 - Created project repository and documentation structure.

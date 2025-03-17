@@ -41,7 +41,7 @@ This approach ensures that users are actively involved throughout the developmen
 - **GitHub Repository:** All progress, design decisions, and updates will be documented here.
 - **Justification of Design Choices:** Captured in design_decisions.md based on UX best practices and user feedback.
 - **Research Findings:** Insights from the initial survey documented in `research_findings.md`.
-- **Content Structure:** Defined in `content_structure.md` for clear organization.
+- **Repository Structure:** Defined in `repository_tree_structure.md` for clear organization.
 - **Changelog:** Updates and improvements tracked in `changelog.md`.
 
 ## Future Enhancements

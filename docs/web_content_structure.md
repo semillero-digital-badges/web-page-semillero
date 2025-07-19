@@ -52,16 +52,3 @@ This project aims to develop an official website for the research group to centr
 ### 7. Gallery
 - Collection of event photos and behind-the-scenes activities.
 - Multimedia content showcasing the group's work.
-
-## Content Guidelines
-- All content should be clear, concise, and accessible.
-- Use a consistent tone aligned with the research group's mission and vision.
-- Keep information up to date and ensure accuracy in published research.
-- Maintain a balance between academic rigor and user-friendly presentation.
-
-## Updates & Maintenance
-- Content updates should be scheduled periodically.
-- New research outputs and achievements should be highlighted.
-- Community engagement should be fostered through timely and relevant updates.
-
-This document will be updated as new decisions and refinements are made during design and development.

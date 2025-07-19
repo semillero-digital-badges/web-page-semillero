@@ -34,7 +34,7 @@ All notable changes to this project will be documented in this file.
 - Integrate the website with the group’s Instagram and Gmail accounts for future functionality.
 - Configure the Contact section to leverage Wix’s new integration with Instagram.
 
-## [0.1.0] - 14-03-2025
+## [0.1.0] - 2025-03-14
 ### Added
 - Initial project setup using Wix.
 - Created project repository and documentation structure.
